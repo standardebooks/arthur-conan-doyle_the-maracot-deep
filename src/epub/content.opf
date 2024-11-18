@@ -45,9 +45,11 @@
 		<meta property="term" refines="#subject-5">sh2010117331</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A scientific expedition stumbles upon the remnants of Atlantis.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;While investigating the deepest part of the Atlantic Ocean, a team led by Dr. Maracot is cut off from their ship and are dropped to the bottom of the ocean. There, they find themselves in the remnants of the ancient civilization of Atlantis.&lt;/p&gt;
+			&lt;p&gt;Like other works by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt; towards the end of his life, this novel shows elements of spiritualism and the supernatural that he had become interested in.&lt;/p&gt;			
+			&lt;p&gt;This short novel was first published in serial form in both &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and &lt;i&gt;The Strand Magazine&lt;/i&gt; between 1927 and 1928, and published with other stories in book form in 1929. This edition is based on the 1929 publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks06/0603271h.html</dc:source>
