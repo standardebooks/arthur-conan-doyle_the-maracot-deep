@@ -9,3 +9,7 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#chapter-1 blockquote:first-of-type p:last-of-type{
+	text-align: right;
+}
