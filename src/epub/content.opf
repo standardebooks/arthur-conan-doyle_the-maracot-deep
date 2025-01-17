@@ -54,8 +54,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks06/0603271h.html</dc:source>
 		<dc:source>https://archive.org/details/maracotdeepother0000doyl</dc:source>
-		<meta property="se:word-count">41318</meta>
-		<meta property="se:reading-ease.flesch">68.7</meta>
+		<meta property="se:word-count">41315</meta>
+		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Maracot_Deep</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-maracot-deep</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
