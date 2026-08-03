@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/arthur-conan-doyle/the-maracot-deep</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -47,12 +47,12 @@
 		<meta property="term" refines="#subject-5">sh2010117331</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A scientific expedition stumbles upon the remnants of Atlantis.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A scientific expedition stumbles upon the remnants of Atlantis.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;While investigating the deepest part of the Atlantic Ocean, a team led by Dr. Maracot is cut off from their ship and hurled to the bottom of the ocean. There, they find themselves in the remnants of the ancient civilization of Atlantis.&lt;/p&gt;
 			&lt;p&gt;Like some other later works by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt;, this novel shows elements of spiritualism and the supernatural, themes and ideas that interested him later in life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Maracot Deep&lt;/i&gt; was first serialized in both &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and &lt;i&gt;The Strand Magazine&lt;/i&gt; between 1927 and 1928, and later published in a book alongside other stories in 1929. This Standard Ebooks edition is based on the 1929 edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks06/0603271h.html</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Maracot_Deep/IfY0AAAAMAAJ</dc:source>
