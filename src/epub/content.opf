@@ -31,10 +31,10 @@
 		<dc:title id="title">The Maracot Deep</dc:title>
 		<meta property="file-as" refines="#title">Maracot Deep, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Submarines (Ships) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Submarines (Ships)--Fiction</dc:subject>
 		<dc:subject id="subject-3">Sea stories</dc:subject>
 		<dc:subject id="subject-4">Adventure stories</dc:subject>
-		<dc:subject id="subject-5">Underwater exploration -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Underwater exploration--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
