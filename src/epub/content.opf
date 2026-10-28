@@ -70,6 +70,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Eugen von Ransonnet-Villez</dc:contributor>
 		<meta property="file-as" refines="#artist">Ransonnet-Villez, Eugen von</meta>
+		<link href="https://en.wikipedia.org/wiki/Eugen_von_Ransonnet-Villez" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Barry Haworth</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haworth, Barry</meta>
